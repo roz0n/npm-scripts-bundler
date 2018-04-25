@@ -17,6 +17,7 @@
     "dev": "concurrently \"npm run watch:css\" \"npm run watch:js\""
   },
   "devDependencies": {
+    "clean-css-cli": "^4.1.11",
     "concat": "^1.0.3",
     "concurrently": "^3.5.1",
     "cssmin": "^0.4.3",
