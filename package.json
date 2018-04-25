@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "concat": "^1.0.3",
+    "concurrently": "^3.5.1",
     "cssmin": "^0.4.3",
     "node-sass": "^4.8.3",
     "onchange": "^3.3.0",
