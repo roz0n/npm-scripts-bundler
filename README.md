@@ -3,9 +3,9 @@ Original repo by deliciousbrains, forked by yours truly.
 
 ## Changes
 - Uses the `concurrently` package instead of `npm-run-all`.
-- Forgoes any image formatting.
 - Utilizes `uglify-es` for ES6 support as opposed to `uglify-js`.
     - Adds the `--mangle toplevel` flag to the `uglify-es` npm script.
+- Handles `.css` files in addition to `.scss` files
 
 ... and more to come 🤙
 
